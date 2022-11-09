@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Fernandes0304&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-![Daniel Fernandes's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabsouzkkj&bg_color=0d1117&color=00bfbf&line=FFFFFF&point=00bfbf&area=true&hide_border=true)
+![Daniel Fernandes's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Daniel-Fernandes0304&bg_color=0d1117&color=00bfbf&line=FFFFFF&point=00bfbf&area=true&hide_border=true)
 
 <div align="center"> 
 <a href="https://instagram.com/danielfernandes465" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
