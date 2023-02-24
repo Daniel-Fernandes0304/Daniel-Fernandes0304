@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Daniel+Fernandes;I'm+16+years+old+and+I+live+in+Brazil;Studying+System+Development+at+SENAI;Welcome+to+my+profile!+<3)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Daniel-Fernandes0304&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=00bfbf&text_color=FFFFFF&bg_color=0d1117" alt="Daniel Fernandes's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Daniel-Fernandes0304&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=9370DB&text_color=FFFFFF&bg_color=0d1117" alt="Daniel Fernandes's GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Fernandes0304&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
