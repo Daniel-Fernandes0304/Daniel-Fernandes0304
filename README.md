@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Daniel+Fernandes;I'm+16+years+old+and+I+live+in+Brazil;Studying+System+Development+at+SENAI;Welcome+to+my+profile!+<3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Daniel+Fernandes;I'm+16+years+old+and+I+live+in+Brazil;Studying+System+Development+at+SENAI;Welcome+to+my+profile!+<3)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Daniel-Fernandes0304&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=00bfbf&text_color=FFFFFF&bg_color=0d1117" alt="Daniel Fernandes's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Daniel-Fernandes0304&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=00bfbf&text_color=FFFFFF&bg_color=0d1117" alt="Daniel Fernandes's GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Fernandes0304&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-![Daniel Fernandes's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Daniel-Fernandes0304&bg_color=0d1117&color=00bfbf&line=FFFFFF&point=00bfbf&area=true&hide_border=true)](https://github.com/Daniel-Fernandes0304/github-readme-activity-graph)
+![Daniel Fernandes's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Daniel-Fernandes0304&bg_color=0d1117&color=8A2BE2&line=9370DB&point=00bfbf&area=true&hide_border=true)
 
 <div align="center"> 
 <a href="https://instagram.com/danielfernandes465" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -39,4 +39,4 @@
 ### Tools:
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer"/>
